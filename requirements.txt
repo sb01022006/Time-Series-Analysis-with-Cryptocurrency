@@ -1,0 +1,13 @@
+streamlit
+yfinance
+pandas
+numpy
+plotly
+textblob
+prophet
+statsmodels
+scikit-learn
+tensorflow
+requests
+streamlit-lottie
+streamlit-autorefresh
