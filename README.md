@@ -138,9 +138,11 @@ TIME-SERIES-ANALYSIS-WITH-CRYPTOCURRENCY/
 3. Analyze:
    - Navigate through modules like Price Explorer, Advanced Forecasting, and Risk & Volatility to view charts and predictions.
 ## 📸 Screenshots
-1. DASHBOARD
+###1. DASHBOARD
 <img width="1440" height="784" alt="Screenshot 2025-12-12 at 8 31 22 PM" src="https://github.com/user-attachments/assets/a21f95b1-f9d2-47fa-8aa5-62bcfb4aa38c" />
-2. Register and Login
+
+
+###2. Register and Login
 
 <img width="231" height="601" alt="Screenshot 2025-12-12 at 8 39 32 PM" src="https://github.com/user-attachments/assets/953cabc1-8231-49a2-84a8-0af3893c3da3" />
 
@@ -149,37 +151,52 @@ TIME-SERIES-ANALYSIS-WITH-CRYPTOCURRENCY/
 
    - Login:
 <img width="246" height="342" alt="Screenshot 2025-12-12 at 8 40 42 PM" src="https://github.com/user-attachments/assets/fc2f909d-8998-4451-a226-9e16498acbcd" />
-4. ⚙️ Parameter Tuning
+
+###3. ⚙️ Parameter Tuning
+
 <img width="235" height="409" alt="Screenshot 2025-12-12 at 8 32 20 PM" src="https://github.com/user-attachments/assets/d06418a3-33c9-4faa-914f-9adfc41f6502" />
-5. Price Movement & Trend
+
+###4. Price Movement & Trend
 <img width="1187" height="849" alt="Screenshot 2025-12-12 at 8 32 58 PM" src="https://github.com/user-attachments/assets/f849754e-c178-4f55-a244-024d3a6384f9" />
-6. Interactive Candle Anlysis(Price Explorer)
+
+###5. Interactive Candle Anlysis(Price Explorer)
+
 <img width="1142" height="701" alt="Screenshot 2025-12-12 at 8 33 46 PM" src="https://github.com/user-attachments/assets/44d14f94-e85b-4593-9e12-6f978cc6b61a" />
-6.Forecasting Models
-  - Arima 
+
+###7.Forecasting Models
+  - **Arima**
 <img width="1123" height="727" alt="Screenshot 2025-12-12 at 8 34 07 PM" src="https://github.com/user-attachments/assets/3fa5b3fa-b9f5-44e1-990b-d9be6dc38700" />
-  - Sarima
+  - **Sarima**
   <img width="1063" height="732" alt="Screenshot 2025-12-12 at 8 35 09 PM" src="https://github.com/user-attachments/assets/c1bcdb98-68a0-4f06-9fc0-6339974c3b15" />
-  - Prophet
+  - **Prophet**
   <img width="1096" height="693" alt="Screenshot 2025-12-12 at 8 35 32 PM" src="https://github.com/user-attachments/assets/d474d927-fa6d-4b51-af6c-3456b80ccf82" />
-  - LSTM model
+  - **LSTM model**
   <img width="1125" height="731" alt="Screenshot 2025-12-12 at 8 35 57 PM" src="https://github.com/user-attachments/assets/d386c0ef-c27a-49cc-816d-80c31c64df01" />
-7. Sentiment Analysis
+  
+###8. Sentiment Analysis
+
 <img width="1106" height="761" alt="Screenshot 2025-12-12 at 8 36 26 PM" src="https://github.com/user-attachments/assets/1a3f8989-fdb9-41ad-ab32-88b1444707f1" />
-8. Risk & Volatility
+
+9###. Risk & Volatility
 <img width="1100" height="692" alt="Screenshot 2025-12-12 at 8 36 57 PM" src="https://github.com/user-attachments/assets/7d9be616-1199-4873-a355-91ca2d67d7d4" />
 <img width="1095" height="666" alt="Screenshot 2025-12-12 at 8 37 07 PM" src="https://github.com/user-attachments/assets/90be09b0-7bcb-47a0-bd02-2ae8c81efbb5" />
-9. Technical Indicator 
+
+###10. Technical Indicator 
 <img width="1161" height="807" alt="Screenshot 2025-12-12 at 8 37 30 PM" src="https://github.com/user-attachments/assets/23830320-5c2a-4d8d-b080-561ddffebb4e" />
-10. Correlation
+
+###11. Correlation
 <img width="1090" height="719" alt="Screenshot 2025-12-12 at 8 37 51 PM" src="https://github.com/user-attachments/assets/e4d97f03-a668-460d-af77-25986bb27e62" />
-11. Feature Importance 
+
+###11. Feature Importance 
 <img width="1122" height="736" alt="Screenshot 2025-12-12 at 8 38 13 PM" src="https://github.com/user-attachments/assets/7b6832fa-6ac3-4f6a-8ca4-573899353a7b" />
-12. Strategy Backtest
+
+###12. Strategy Backtest
 <img width="1101" height="762" alt="Screenshot 2025-12-12 at 8 38 37 PM" src="https://github.com/user-attachments/assets/0d64f11c-f6d5-4ea7-af2d-e97b9813ef16" />
-13. Data Export 
+
+###13. Data Export 
 <img width="1120" height="607" alt="Screenshot 2025-12-12 at 8 38 49 PM" src="https://github.com/user-attachments/assets/3fe5168a-e86b-4f8e-a7d2-8f6d62ec6102" />
-14. Changing Parameter:
+
+###14. Changing Parameter:
 <img width="244" height="365" alt="Screenshot 2025-12-12 at 8 41 33 PM" src="https://github.com/user-attachments/assets/9c752463-0b49-4eba-9ea1-a62d5a73c9ee" />
 
 
