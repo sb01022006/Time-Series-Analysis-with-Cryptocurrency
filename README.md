@@ -21,8 +21,6 @@ This project is built using **Python 3.9**, **Streamlit**, and advanced **Time S
 8. [Project Structure](#-project-structure)
 9. [Usage Guide](#-usage-guide)
 10. [Screenshots](#-screenshots)
-11. [Project Responsibility](#-project-responsibility)
-
 ---
 
 ## 📝 Overview
