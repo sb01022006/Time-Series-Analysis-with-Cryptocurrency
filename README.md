@@ -4,7 +4,7 @@ Welcome to the **TIME SERIES ANALYSIS WITH CRYPTOCURRENCY** repository!
 
 This project is built using **Python 3.9**, **Streamlit**, and advanced **Time Series Forecasting Models** such as **ARIMA**, **SARIMA**, **Prophet**, and **LSTM**. The platform provides a complete dashboard for analyzing, visualizing, and forecasting cryptocurrency trends.
 
-**🚀 Live Demo:** [https://time-series-analysis-with-cryptocurrency-e15v.onrender.com](https://time-series-analysis-with-cryptocurrency-e15v.onrender.com)
+**🚀 Live on web:** [https://time-series-analysis-with-cryptocurrency-e15v.onrender.com](https://time-series-analysis-with-cryptocurrency-e15v.onrender.com)
 
 ---
 
@@ -140,17 +140,20 @@ TIME-SERIES-ANALYSIS-WITH-CRYPTOCURRENCY/
 ## 📸 Screenshots
 1. DASHBOARD
 <img width="1440" height="784" alt="Screenshot 2025-12-12 at 8 31 22 PM" src="https://github.com/user-attachments/assets/a21f95b1-f9d2-47fa-8aa5-62bcfb4aa38c" />
-2. Register and Login 
+2. Register and Login
+
 <img width="231" height="601" alt="Screenshot 2025-12-12 at 8 39 32 PM" src="https://github.com/user-attachments/assets/953cabc1-8231-49a2-84a8-0af3893c3da3" />
+
    - Register:
 <img width="240" height="535" alt="Screenshot 2025-12-12 at 8 39 59 PM" src="https://github.com/user-attachments/assets/28eecf2f-c388-4896-928f-2c2d992cc5ca" />
+
    - Login:
 <img width="246" height="342" alt="Screenshot 2025-12-12 at 8 40 42 PM" src="https://github.com/user-attachments/assets/fc2f909d-8998-4451-a226-9e16498acbcd" />
-3. ⚙️ Parameter Tuning
+4. ⚙️ Parameter Tuning
 <img width="235" height="409" alt="Screenshot 2025-12-12 at 8 32 20 PM" src="https://github.com/user-attachments/assets/d06418a3-33c9-4faa-914f-9adfc41f6502" />
-4. Price Movement & Trend
+5. Price Movement & Trend
 <img width="1187" height="849" alt="Screenshot 2025-12-12 at 8 32 58 PM" src="https://github.com/user-attachments/assets/f849754e-c178-4f55-a244-024d3a6384f9" />
-5. Interactive Candle Anlysis(Price Explorer)
+6. Interactive Candle Anlysis(Price Explorer)
 <img width="1142" height="701" alt="Screenshot 2025-12-12 at 8 33 46 PM" src="https://github.com/user-attachments/assets/44d14f94-e85b-4593-9e12-6f978cc6b61a" />
 6.Forecasting Models
   - Arima 
