@@ -18,9 +18,10 @@ This project is built using **Python 3.9**, **Streamlit**, and advanced **Time S
     - [Installing Required Libraries](#3-installing-required-libraries)
 6. [Database Setup](#-database-setup-authentication)
 7. [Running the App](#-running-the-app)
-8. [Project Structure](#-project-structure)
-9. [Usage Guide](#-usage-guide)
-10. [Screenshots](#-screenshots)
+8. [Deployment (Render)](#-deployment-render)
+9. [Project Structure](#-project-structure)
+10. [Usage Guide](#-usage-guide)
+11. [Screenshots](#-screenshots)
 ---
 
 ## 📝 Overview
@@ -116,6 +117,13 @@ Launch the Streamlit server from the project directory. Ensure your Conda enviro
 streamlit run crypto_app.py
 ```
 The dashboard will automatically open in your web browser, typically at (http://localhost:8501).
+
+## 🚀 Deployment (Render)
+This application is deployed and live on Render.
+
+Live Link: (https://time-series-analysis-with-cryptocurrency-e15v.onrender.com)
+
+The deployment environment matches the local requirements.txt configuration, ensuring consistent performance between local development and the production buil
 
 ## 📂 Project Structure
 ```Plaintext
