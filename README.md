@@ -111,6 +111,10 @@ pip install -r requirements.txt
 ```bash
 brew install openssl
 ```
+## 🔐 Database Setup (Authentication)
+
+The application uses a local JSON file, users_db.json, for a simple, persistent user authentication system.
+
 ## ▶️ Running the App
 Launch the Streamlit server from the project directory. Ensure your Conda environment is active.
 ```bash
@@ -123,7 +127,7 @@ This application is deployed and live on Render.
 
 Live Link: (https://time-series-analysis-with-cryptocurrency-e15v.onrender.com)
 
-The deployment environment matches the local requirements.txt configuration, ensuring consistent performance between local development and the production buil
+The deployment environment matches the local requirements.txt configuration, ensuring consistent performance between local development and the production build
 
 ## 📂 Project Structure
 ```Plaintext
