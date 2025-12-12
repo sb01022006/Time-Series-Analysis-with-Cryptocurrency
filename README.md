@@ -117,7 +117,8 @@ Launch the Streamlit server from the project directory. Ensure your Conda enviro
 streamlit run crypto_app.py
 ```
 The dashboard will automatically open in your web browser, typically at (http://localhost:8501).
-📂 Project Structure
+
+## 📂 Project Structure
 ```Plaintext
 TIME-SERIES-ANALYSIS-WITH-CRYPTOCURRENCY/
 ├── crypto_app.py        # Main application file (Streamlit)
