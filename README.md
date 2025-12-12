@@ -90,3 +90,40 @@ Before starting, ensure you have the following:
 git clone <YOUR-REPOSITORY-URL>
 # Navigate to the project directory
 cd TIME-SERIES-ANALYSIS-WITH-CRYPTOCURRENCY
+```
+
+### 2. Creating Conda Environment
+
+We recommend using a dedicated Conda environment (Python 3.9 recommended) to manage dependencies.
+```bash
+# Create a new environment named 'crypto_env'
+conda create -n crypto_env python=3.9
+# Activate the environment
+conda activate crypto_env
+```
+3. Installing Required Libraries
+Install all required packages listed in requirements.txt using pip while your Conda environment is active:
+```bash
+pip install -r requirements.txt
+```
+⚠️ Note on Dependencies (macOS):The prophet and tensorflow libraries may require system dependencies like the GCC compiler and OpenSSL. If you encounter errors, install them using Homebrew:
+
+```bash
+brew install openssl
+```
+## ▶️ Running the App
+Launch the Streamlit server from the project directory. Ensure your Conda environment is active.
+```bash
+streamlit run crypto_app.py
+```
+The dashboard will automatically open in your web browser, typically at (http://localhost:8501).
+📂 Project Structure
+```Plaintext
+TIME-SERIES-ANALYSIS-WITH-CRYPTOCURRENCY/
+├── crypto_app.py        # Main application file (Streamlit)
+├── requirements.txt     # List of python dependencies
+├── users_db.json        # JSON database for user credentials
+├── assets/              # (Optional) Folder for static assets/images
+└── README.md            # Project documentation
+```
+
