@@ -166,10 +166,13 @@ TIME-SERIES-ANALYSIS-WITH-CRYPTOCURRENCY/
 ## Forecasting Models
   - **Arima**
 <img width="1123" height="727" alt="Screenshot 2025-12-12 at 8 34 07 PM" src="https://github.com/user-attachments/assets/3fa5b3fa-b9f5-44e1-990b-d9be6dc38700" />
+
   - **Sarima**
   <img width="1063" height="732" alt="Screenshot 2025-12-12 at 8 35 09 PM" src="https://github.com/user-attachments/assets/c1bcdb98-68a0-4f06-9fc0-6339974c3b15" />
+  
   - **Prophet**
   <img width="1096" height="693" alt="Screenshot 2025-12-12 at 8 35 32 PM" src="https://github.com/user-attachments/assets/d474d927-fa6d-4b51-af6c-3456b80ccf82" />
+  
   - **LSTM model**
   <img width="1125" height="731" alt="Screenshot 2025-12-12 at 8 35 57 PM" src="https://github.com/user-attachments/assets/d386c0ef-c27a-49cc-816d-80c31c64df01" />
   
@@ -181,13 +184,13 @@ TIME-SERIES-ANALYSIS-WITH-CRYPTOCURRENCY/
 <img width="1100" height="692" alt="Screenshot 2025-12-12 at 8 36 57 PM" src="https://github.com/user-attachments/assets/7d9be616-1199-4873-a355-91ca2d67d7d4" />
 <img width="1095" height="666" alt="Screenshot 2025-12-12 at 8 37 07 PM" src="https://github.com/user-attachments/assets/90be09b0-7bcb-47a0-bd02-2ae8c81efbb5" />
 
-##Technical Indicator 
+## Technical Indicator 
 <img width="1161" height="807" alt="Screenshot 2025-12-12 at 8 37 30 PM" src="https://github.com/user-attachments/assets/23830320-5c2a-4d8d-b080-561ddffebb4e" />
 
-##Correlation
+## Correlation
 <img width="1090" height="719" alt="Screenshot 2025-12-12 at 8 37 51 PM" src="https://github.com/user-attachments/assets/e4d97f03-a668-460d-af77-25986bb27e62" />
 
-##Feature Importance 
+## Feature Importance 
 <img width="1122" height="736" alt="Screenshot 2025-12-12 at 8 38 13 PM" src="https://github.com/user-attachments/assets/7b6832fa-6ac3-4f6a-8ca4-573899353a7b" />
 
 ## Strategy Backtest
