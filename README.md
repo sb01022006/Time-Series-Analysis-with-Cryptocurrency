@@ -33,6 +33,20 @@ The TIME SERIES ANALYSIS WITH CRYPTOCURRENCY project is designed to help traders
 
 The project focuses on cryptocurrencies using Yahoo Finance (yfinance) data and offers model-based predictions.
 
+## ⭐ Features
+1. Real-Time & Historical Data Collection
+2. Data Preprocessing (cleaning, scaling, transformation)
+3.Exploratory Data Analysis (trends, volume, candlesticks)
+4.Forecasting Models
+  - ARIMA
+  - SARIMA
+  - Prophet
+  - LSTM
+5.Sentiment Analysis using TextBlob
+6. User Authentication using a JSON-based credential file
+7. Interactive Dashboard built using Streamlit
+8. Fully Deployed Online (Render)
+
 
 
 
