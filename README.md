@@ -27,12 +27,13 @@ This project is built using **Python 3.9**, **Streamlit**, and advanced **Time S
 
 ## 📝 Overview
 
-[cite_start]The **TIME SERIES ANALYSIS WITH CRYPTOCURRENCY** project is designed to help traders, investors, analysts, and researchers gain insights into crypto market behavior. [cite: 5, 10] It leverages data analytics, statistical modeling, and machine learning to predict future price movements based on historical data.
+The **TIME SERIES ANALYSIS WITH CRYPTOCURRENCY** project is designed to help traders, investors, analysts, and researchers gain insights into crypto market behavior. 
+It leverages data analytics, statistical modeling, and machine learning to predict future price movements based on historical data.
 
 **Key Objectives:**
 * Analyze cryptocurrency price trends using time series forecasting techniques.
-* [cite_start]Predict future price movements using historical data. [cite: 11]
-* [cite_start]Provide a Graphical User Interface (GUI) for real-time trends and predictive insights. [cite: 12]
+* Predict future price movements using historical data. 
+* Provide a Graphical User Interface (GUI) for real-time trends and predictive insights. 
 
 ---
 
@@ -40,15 +41,15 @@ This project is built using **Python 3.9**, **Streamlit**, and advanced **Time S
 
 The dashboard is logically structured into powerful modules accessible via the sidebar:
 
-1.  [cite_start]**Real-Time & Historical Data Collection:** Extracts live data from API sources like Yahoo Finance (`yfinance`). [cite: 16]
-2.  [cite_start]**Data Preprocessing & Exploration:** Cleans and processes data, handles missing values, and visualizes trends using Pandas and Plotly. [cite: 18]
+1.  **Real-Time & Historical Data Collection:** Extracts live data from API sources like Yahoo Finance (`yfinance`). 
+2.  **Data Preprocessing & Exploration:** Cleans and processes data, handles missing values, and visualizes trends using Pandas and Plotly. 
 3.  **Forecasting Models (The AI Engine):**
-    * [cite_start]**ARIMA & SARIMA:** Classical statistical models for trend projection. [cite: 20]
-    * [cite_start]**Facebook Prophet:** Robust forecasting for time-series data with seasonality. [cite: 20]
-    * [cite_start]**LSTM (Long Short-Term Memory):** Deep learning neural network for complex pattern recognition. [cite: 20]
-4.  [cite_start]**Sentiment Analysis:** Analyzes news headlines using NLP (`TextBlob`) to gauge market sentiment (Bullish/Bearish). [cite: 24]
-5.  [cite_start]**Risk & Volatility Analysis:** Visualizes market volatility using Bollinger Bands and return distributions. [cite: 24]
-6.  [cite_start]**Interactive Dashboard:** A modern GUI built with Streamlit featuring interactive charts and tickers. [cite: 22]
+    * **ARIMA & SARIMA:** Classical statistical models for trend projection. 
+    * **Facebook Prophet:** Robust forecasting for time-series data with seasonality.
+    * **LSTM (Long Short-Term Memory):** Deep learning neural network for complex pattern recognition. 
+4.  **Sentiment Analysis:** Analyzes news headlines using NLP (`TextBlob`) to gauge market sentiment (Bullish/Bearish). 
+5.  **Risk & Volatility Analysis:** Visualizes market volatility using Bollinger Bands and return distributions. 
+6.  **Interactive Dashboard:** A modern GUI built with Streamlit featuring interactive charts and tickers. 
 7.  **Secure Authentication:** User login system backed by a local JSON database.
 8.  **Data Export:** Capability to download analyzed datasets as CSV files.
 
