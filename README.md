@@ -30,8 +30,8 @@ The TIME SERIES ANALYSIS WITH CRYPTOCURRENCY project is designed to help traders
 - Sentiment analysis
 - Real-time charts
 - Interactive dashboards
-The project focuses on cryptocurrencies using Yahoo Finance (yfinance) data and offers model-based predictions.
 
+The project focuses on cryptocurrencies using Yahoo Finance (yfinance) data and offers model-based predictions.
 
 
 
