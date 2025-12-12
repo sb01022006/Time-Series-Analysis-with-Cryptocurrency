@@ -126,4 +126,14 @@ TIME-SERIES-ANALYSIS-WITH-CRYPTOCURRENCY/
 ├── assets/              # (Optional) Folder for static assets/images
 └── README.md            # Project documentation
 ```
-
+## 📖 Usage Guide
+1. Authentication (Register & Login):
+   - Open the app in your browser.
+   -  Go to the sidebar "User Access".
+   - Register: Click the "Register" tab, enter a new Username and Password, and click "Create Account".
+   - Login: Switch to the "Login" tab and enter your newly registered credentials to access the dashboard.
+2. Select Asset:
+   - In the "Parameter Tuning" section (Sidebar), enter a ticker symbol (e.g., BTC-USD, ETH-USD).
+   - Set the Start and End dates.
+3. Analyze:
+   - Navigate through modules like Price Explorer, Advanced Forecasting, and Risk & Volatility to view charts and predictions.
