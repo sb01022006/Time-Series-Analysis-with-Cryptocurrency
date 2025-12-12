@@ -78,6 +78,6 @@ The dashboard is built entirely in Python using a powerful set of libraries:
 Open your terminal and clone the project:
 
 ```bash
-git clone <YOUR-REPOSITORY-URL>
+git clone <(https://github.com/sb01022006/Time-Series-Analysis-with-Cryptocurrency)>
 # Navigate to the project directory
 cd TIME-SERIES-ANALYSIS-WITH-CRYPTOCURRENCY
